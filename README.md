@@ -1,3 +1,3 @@
 # mobile-webapp
 
-A template for mobile web apps using vanilla web APIs.
+Figuring out a template for mobile web apps using vanilla web APIs.
